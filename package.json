@@ -1,7 +1,7 @@
 {
   "name": "musaibzahoor.github.io",
   "version": "0.1.0",
-  "homepage": "https://musaibzahoor.github.io",
+  "homepage": "https://musi7051.github.io/musaibzahoor.github.io/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
@@ -47,7 +47,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.8",
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.2.0",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8",
     "tailwindcss-animated": "^1.0.1"
