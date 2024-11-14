@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ab91665.css",
+    "main.js": "/static/js/main.8a02a045.js",
+    "static/media/Albayt.png": "/static/media/Albayt.6cd276e6bd7e4ad2707d.png",
+    "static/media/main.png": "/static/media/main.ccae7a19f0a3f2919626.png",
+    "static/media/logo.png": "/static/media/logo.a943e08569c49a075bd2.png",
+    "static/media/code2.png": "/static/media/code2.991831d0a626b3b8e8b3.png",
+    "index.html": "/index.html",
+    "main.5ab91665.css.map": "/static/css/main.5ab91665.css.map",
+    "main.8a02a045.js.map": "/static/js/main.8a02a045.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ab91665.css",
+    "static/js/main.8a02a045.js"
+  ]
+}
