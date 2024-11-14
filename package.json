@@ -1,7 +1,7 @@
 {
-  "name": "peerarsalan.github.io",
+  "name": "musaibzahoor.github.io",
   "version": "0.1.0",
-  "homepage": "https://peerarsalan.github.io",
+  "homepage": "https://musaibzahoor.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.12.1",

@@ -25,7 +25,7 @@ const Navbar = () => {
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-gradient-to-l from-gray-700 via-gray-900 to-black opacity-90 text-gray-300'>
       <div>
        <div className='flow-root flex xsm:flex '>
-        <h1 className=' font-bold text-2xl xsm:text-xl md:text-4xl sm:text-2xl'>ARSALAN</h1>
+        <h1 className=' font-bold text-2xl xsm:text-xl md:text-4xl sm:text-2xl'>MUSAIB ZAHOOR</h1>
         <img alt='header_logo' className='ml-4' src={logo} width={35} height={20} />
         </div>
         
@@ -118,7 +118,7 @@ const Navbar = () => {
           <li className='xsm:h-[40px] xsm:w-[150px] xsm:size-10 xsm:bg-opacity-0 md:w-[160px] md:h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 md:bg-blue-600  '>
             <a
               className='flex justify-between items-center w-full md:text-gray-300 xsm:text-[#0077b5]'
-              href='https://www.linkedin.com/in/peerarsalan
+              href='https://www.linkedin.com/in/#
               '
             >
               Linkedin <FaLinkedin size={30} />
@@ -127,7 +127,7 @@ const Navbar = () => {
           <li className='md:w-[160px] md:h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 md:bg-[#FF69B4] xsm:h-[40px] xsm:w-[150px] xsm:size-10 xsm:bg-opacity-0'>
             <a
               className='flex justify-between items-center w-full md:text-gray-300 xsm:text-[#FF69B4]'
-              href='https://www.instagram.com/peerzada_arsalan'
+              href='https://www.instagram.com/im_musaib07'
             >
               Instagram <FaInstagram size={30} />
             </a>
@@ -135,7 +135,7 @@ const Navbar = () => {
           <li className='md:w-[160px] md:h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 md:bg-[#333333] xsm:h-[40px] xsm:w-[150px] xsm:size-10 xsm:bg-opacity-0'>
             <a
               className='flex justify-between items-center w-full md:text-gray-300 xsm:text-[#6e5494]'
-              href='https://github.com/peerarsalan'
+              href='https://github.com/'
             >
               Github <FaGithub size={30} />
             </a>
@@ -143,7 +143,7 @@ const Navbar = () => {
           <li className='md:w-[160px] md:h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 md:bg-[#6fc2b0] xsm:h-[40px] xsm:w-[150px] xsm:size-10 xsm:bg-opacity-0'>
             <a
               className='flex justify-between items-center w-full md:text-gray-300 xsm:text-[#EA4335]'
-              href='mailto:peerarsalan7@gmail.com'
+              href='mailto:musaibdar1365.md@gmail.com'
             >
               Email <HiOutlineMail size={30} />
             </a>
@@ -151,7 +151,7 @@ const Navbar = () => {
           <li className='md:w-[160px] md:h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 md:bg-[#565f69] xsm:h-[40px] xsm:w-[150px] xsm:size-10 xsm:bg-opacity-0'>
             <a
               className='flex justify-between items-center w-full md:text-gray-300 xsm:text-[#4285F4]'
-              href='https://drive.google.com/file/d/1_e15o6QNNxURVvg2KDejn21BiZMhCgkR/view?usp=drive_link'
+              href='#'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
@@ -159,7 +159,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div className='fixed w-full h-[30px] flex justify-between items-center px-4 bottom-0 bg-[] text-gray-300 flex'>
-      <h3 className='text-right w-full items-center pr-4 font-sans font-bold'>&copy; Peer Arsalan</h3>
+      <h3 className='text-right w-full items-center pr-4 font-sans font-bold'>&copy; Musaib Zahoor</h3>
     </div>
     
     </div>

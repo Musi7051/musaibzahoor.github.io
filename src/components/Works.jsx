@@ -15,7 +15,7 @@ const Works = () => {
         <div className='grid xsm:grid-cols-2 sm:grid-cols-2 px-3 md:grid-cols-3 gap-4'>
             {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${albayt1})` }}
+            style={{ backgroundImage: `url(${code})` }}
             className='shadow-lg shadow-[white] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -23,14 +23,14 @@ const Works = () => {
               <span className=' text-lg font-bold text-white tracking-wider'>
                 Responsive Website
               </span>
-              <p className='text-center'>Responsive Professional Website of a Company Al-Bayt</p>
+              <p className='text-center'>Responsive Professional Website of a Company</p>
               <div className='pt-8 text-center'>
-                <a href='/https://www.albaytworld.com'>
+                <a href='/https:/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/https://www.albaytworld.com'>
+                <a href='/https:/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>

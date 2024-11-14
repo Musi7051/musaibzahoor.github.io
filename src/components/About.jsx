@@ -22,7 +22,7 @@ const About = () => {
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-4 px-4 py-4">
             <div className="text-white md:text-4xl xl:text-6xl font-bold xsm:text-2xl animate-pulse">
               <p>
-                Hi. I'm PEER ARSALAN AHMAD, nice to meet you. Do take a
+                Hi. I'm MUSAIB ZAHOOR, nice to meet you. Do take a
                 look around.
               </p>
             </div>

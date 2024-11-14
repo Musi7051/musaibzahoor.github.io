@@ -43,35 +43,35 @@ const Contact = () => {
       <div className='w- gap-6 items-center flex flex'>
     <a
           className='flex  w-full text-[#6e5494] '
-          href='https://www.github.com/in/peerarsalan
+          href='https://www.github.com/in/
           '
         >
            <FaGithub size={30} />
         </a>
         <a
           className='flex  w-full  text-[#0077b5]'
-          href='https://www.linkedin.com/in/peerarsalan
+          href='https://www.linkedin.com/in/
           '
         >
            <FaLinkedinIn size={30} />
         </a>
         <a
           className='flex w-full text-[#FF69B4] '
-          href='https://www.instagram.com/in/peerzada_arsalan
+          href='https://www.instagram.com/in/im_musaib07
           '
         >
            <FaInstagram size={30} />
         </a>
         <a
           className='flex text-[#316FF6] hover:[#fccc63] w-full  '
-          href='https://www.github.com/in/peerarsalan
+          href='https://www.facebook.com/in/immusaib
           '
         >
            <FaFacebookF size={30} />
         </a>
         <a
           className='flex w-full text-[#EA4335]'
-          href='https://mailto:peerarsalan7@gmail.com
+          href='https://mailto:musaibdar1365.md@gmail.com
           '
         >
            <FaEnvelope size={30} />
